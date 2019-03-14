@@ -68,6 +68,8 @@ Reading list of research works at stream processing. PR are welcome!
 - Communication-aware mapping of stream graphs for multi-GPU platforms, CGO’16 https://dl.acm.org/citation.cfm?id=2854055
 - GStreamMiner: A GPU-accelerated Data Stream Mining Framework, CIKM'16 https://dl.acm.org/citation.cfm?id=2983341
 - SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures, SIGMOD'16 https://www.matthiasweidlich.com/paper/saber_SIGMOD_2016.pdf
+- A holistic approach to build real-time stream processing system with GPU, JPDC'15
+https://dl.acm.org/citation.cfm?id=2824438
 
 # General Stream Processing 
 
